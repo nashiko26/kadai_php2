@@ -13,3 +13,7 @@
 
 ## ④質問・疑問・感想、シェアしたいこと等なんでも
 - [感想]SQL、PHP、Laravelの解釈が曖昧だなぁとコード書きながら思い、入門書を数冊読んでみたので、少しだけ仲良くなれた気がします
+- 勉強になった書籍
+  - [独習PHP 第4版](https://www.amazon.co.jp/gp/product/4798168491/)
+  - [達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ](https://www.amazon.co.jp/gp/product/4798157821/)
+  - [スッキリわかるSQL入門 第3版 ドリル256問付き!](https://www.amazon.co.jp/gp/product/4295013390/) 
